@@ -3,7 +3,7 @@
 <h1 align="center"> Criar Uma Página Web Utilizando as Tags Aprendidas </h1>
 
 <h4 align="center"> 
-  <img src="https://img.shields.io/badge/Status:-em%20andamento-yellow">
+  <img src="https://img.shields.io/badge/Status:-Conclu%C3%ADdo-green">
 </h4>
 
 
